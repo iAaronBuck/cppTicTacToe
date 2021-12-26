@@ -1,0 +1,8 @@
+This module produces a Command Line Interface TicTacToe game written in C++ in the 11th Standard. 
+
+The only requirement in the project to run the project is typing "make run" into the command line
+when inside of the folder for the repo. Additionally, the user must have downloaded and prepared
+a local C++ development environment to execute the program.
+
+This was an exploratory project meant to learn the basics of C++ along with providing 
+a relatable teaching project to teach my 8 year-old nephew to code.
